@@ -75,4 +75,12 @@ This scrapes the 3 test domains and writes results to `output.json` (a sample ru
 
 ## Operations question answer
 
-(Add your Yes/No answer to the assignment's screening question here before submitting, along with your LinkedIn profile.)
+
+
+**Answer:** Yes
+
+I confirm I have read and understood that this role involves approximately 40% of working hours dedicated to manual lead prospecting, email discovery, and account handling, alongside AI engineering tasks. I'm comfortable with this split — while working on this assignment, I genuinely enjoyed the hands-on process, from debugging scraping issues to getting the structured output working end-to-end, so I'm confident I'll enjoy the mix of manual prospecting work and AI engineering tasks in this role.
+
+**LinkedIn:** https://www.linkedin.com/in/atharva-barve-824764271/
+
+
